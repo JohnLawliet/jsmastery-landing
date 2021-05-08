@@ -1,0 +1,11 @@
+1. react-custom-scrollbars-2 : adding custom scrollbars. Can be hidden
+2. react-scroll: for scrolling to the link on click
+3. rc-drawer: for making dropdown of logo on smaller screens?
+4. react-modal-video
+5. react-multi-carousel
+
+wrapping the react Icon in a li and adding a classname, its possible to change colour of Icon
+'.star-o': {
+    color: '#ddd',
+    mr: '1px',
+    }
